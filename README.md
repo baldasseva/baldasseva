@@ -1,6 +1,6 @@
 # Hi, I'm Eva!
 ## Welcome to my GitHub page
-- :student: I'm finishing my Master Degree in Computer Science Engineering
+- :mortar_board: I'm finishing my Master Degree in Computer Science Engineering
 - :house: I live in Milan, Italy
 - :speech_balloon: I speak Italian, Czech, English and French
 - :art:I enjoy doing graphics or other creative things
