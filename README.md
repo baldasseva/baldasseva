@@ -1,14 +1,14 @@
-# Hi, I'm Eva!
-## Welcome to my GitHub page
-- :mortar_board: I'm finishing my Master Degree in Computer Science Engineering
+# Hi, I'm Eva! 
+- :mortar_board: Master Degree in Computer Science Engineering
+- 🏢 Frontend Developer in [Cleafy](https://www.cleafy.com/), Milan
 - :house: I live in Milan, Italy
 - :speech_balloon: I speak Italian, Czech, English and French
-- :art:I enjoy doing graphics or other creative things
+- :art: I enjoy doing graphics or other creative things
 
 ### Some links to reach me:
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384088.svg"/>][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384049.svg"/>][twitter]
-[<img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384031.svg"/>][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/office/16/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/office/16/000000/twitter.png"/>][twitter]
+[<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/office/16/000000/instagram-new.png"/>][instagram]
 
 <br/>
 <br/>
