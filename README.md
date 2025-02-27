@@ -6,11 +6,12 @@
 - :art: I enjoy doing graphics or other creative things
 
 ### Some links to reach me:
-[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/office/16/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/office/16/000000/instagram-new.png"/>][instagram]
+[<img align="left" alt="LinkedIn" height="22px" src="https://img.icons8.com/office/16/000000/linkedin.png"/>][linkedin]
+[Codepen][codepen]
 
 <br/>
 <br/>
 
-[linkedin]: https://www.linkedin.com/in/eva-baldasseroni-889a09171/
-[instagram]: https://www.instagram.com/baaldeva/
+[linkedin]: https://www.linkedin.com/in/eva-baldasseroni/
+[codepen]: https://codepen.io/baldasseva
+
